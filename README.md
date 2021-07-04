@@ -1,68 +1,68 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Restaurant Finder
 
-## Available Scripts
+<p>Aplicação desenvolvida em React e com integração Google Maps.</p>
 
-In the project directory, you can run:
+<p>Projeto codado durante o bootcamp da Digital Innovation One.</p>
 
-### `yarn start`
+<p>Tecnologias utilizadas: HTML, CSS/SASS, JavaScript, React.Js. </p>
+ 
+## Como usar? ##
+ 
+  <img src="restaurantfinder.png" alt="Restaurant Finder" />
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+  &#xa0;
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
 
-### `yarn test`
+</div>
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+<p align="center">
+  <a href="#dart-sobre">Sobre</a> &#xa0; | &#xa0;   
+  <a href="#rocket-tecnologias">Tecnologias</a> &#xa0; | &#xa0;
+  <a href="#white_check_mark-pré-requesitos">Pré requisitos</a> &#xa0; | &#xa0;
+  <a href="#checkered_flag-começando">Iniciando</a> &#xa0; | &#xa0;
+  <a href="#memo-licença">Licença</a> &#xa0; | &#xa0;
+</p>
 
-### `yarn build`
+<br>
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## :dart: Sobre ##
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+Restaurant Finder é uma aplicação para localizar restaurantes próximos, com integração em Google Maps.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## :rocket: Tecnologias ##
 
-### `yarn eject`
+As seguintes ferramentas foram usadas na construção do projeto:
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+- [React](https://pt-br.reactjs.org/)
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## :white_check_mark: Pré requisitos ##
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+Antes de começar :checkered_flag:, você precisa ter o [Git](https://git-scm.com) e o [Node](https://nodejs.org/en/) instalados no PC!
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+## :checkered_flag: Iniciando ##
 
-## Learn More
+```bash
+# Clone este repositório
+$ git clone https://github.com/gabimesquita/Restaurant_Finder
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+# Entre na pasta
+$ cd podcastr
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+# Instale as dependências
+$ yarn
 
-### Code Splitting
+# Para iniciar o projeto
+$ yarn start
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
+# O app vai inicializar em <http://localhost:3000>
+```
 
-### Analyzing the Bundle Size
+## :memo: Licença ##
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
+Este projeto está sob licença MIT. Veja o arquivo [LICENSE](license.md) para mais detalhes.
 
-### Making a Progressive Web App
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
 
-### Advanced Configuration
+&#xa0;
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `yarn build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+<a href="#top">Voltar para o topo</a>
