@@ -46,7 +46,7 @@ Antes de começar :checkered_flag:, você precisa ter o [Git](https://git-scm.co
 $ git clone https://github.com/gabimesquita/Restaurant_Finder
 
 # Entre na pasta
-$ cd podcastr
+$ cd restaurant_finder
 
 # Instale as dependências
 $ yarn
