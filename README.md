@@ -1,8 +1,7 @@
 # Restaurant Finder
 
-<p>Aplicação desenvolvida em React e com integração Google Maps.</p>
 
-<p>Projeto codado durante o bootcamp da Digital Innovation One.</p>
+<p>Aplicação desenvolvida em React e com integração Google Maps.</p>
 
 <p>Tecnologias utilizadas: HTML, CSS/SASS, JavaScript, React.Js. </p>
  
